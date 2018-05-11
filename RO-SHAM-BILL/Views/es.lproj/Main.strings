@@ -1,0 +1,117 @@
+
+/* Class = "UITableViewController"; title = "Settings"; ObjectID = "4Ea-rf-auB"; */
+"4Ea-rf-auB.title" = "Settings";
+
+/* Class = "UIButton"; normalTitle = "Play"; ObjectID = "5Eq-qs-fVY"; */
+"5Eq-qs-fVY.normalTitle" = "Play";
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "71j-Fn-0ki"; */
+"71j-Fn-0ki.normalTitle" = "SAVE";
+
+/* Class = "UILabel"; text = "Winner"; ObjectID = "8pu-bp-F4V"; */
+"8pu-bp-F4V.text" = "Winner";
+
+/* Class = "UITableViewSection"; headerTitle = "Ending #"; ObjectID = "94C-Hx-kwm"; */
+"94C-Hx-kwm.headerTitle" = "Ending #";
+
+/* Class = "UILabel"; text = "Low Num"; ObjectID = "DIK-MH-qKh"; */
+"DIK-MH-qKh.text" = "Low Num";
+
+/* Class = "UINavigationItem"; title = "Play Game"; ObjectID = "FNl-Sw-EwB"; */
+"FNl-Sw-EwB.title" = "Play Game";
+
+/* Class = "UIButton"; normalTitle = "Settings"; ObjectID = "GGd-ad-orc"; */
+"GGd-ad-orc.normalTitle" = "Settings";
+
+/* Class = "UINavigationItem"; title = "Choose Players"; ObjectID = "H4B-RG-8pb"; */
+"H4B-RG-8pb.title" = "Choose Players";
+
+/* Class = "UILabel"; text = "Press Here To Select #"; ObjectID = "I1p-8e-LDT"; */
+"I1p-8e-LDT.text" = "Press Here To Select #";
+
+/* Class = "UITableViewSection"; headerTitle = "Starting #"; ObjectID = "IBI-Nx-QQT"; */
+"IBI-Nx-QQT.headerTitle" = "Starting #";
+
+/* Class = "UILabel"; text = "Higher"; ObjectID = "Ito-3O-Kwp"; */
+"Ito-3O-Kwp.text" = "Higher";
+
+/* Class = "UILabel"; text = "Press Here to Select #"; ObjectID = "JPS-0r-l3I"; */
+"JPS-0r-l3I.text" = "Press Here to Select #";
+
+/* Class = "UILabel"; text = "AND"; ObjectID = "K08-uR-yzT"; */
+"K08-uR-yzT.text" = "AND";
+
+/* Class = "UINavigationItem"; title = "Ro-Sham-Bill"; ObjectID = "K2v-nz-wxX"; */
+"K2v-nz-wxX.title" = "Ro-Sham-Bill";
+
+/* Class = "UILabel"; text = "Lower"; ObjectID = "LC3-oO-5vs"; */
+"LC3-oO-5vs.text" = "Lower";
+
+/* Class = "UIViewController"; title = "SERVER"; ObjectID = "LHj-jv-uy5"; */
+"LHj-jv-uy5.title" = "SERVER";
+
+/* Class = "UILabel"; text = "High Number"; ObjectID = "MAe-A7-39V"; */
+"MAe-A7-39V.text" = "High Number";
+
+/* Class = "UILabel"; text = "AND"; ObjectID = "OQS-Yb-T3e"; */
+"OQS-Yb-T3e.text" = "AND";
+
+/* Class = "UINavigationItem"; title = "SERVER"; ObjectID = "QhW-Pg-4u9"; */
+"QhW-Pg-4u9.title" = "SERVER";
+
+/* Class = "UILabel"; text = "High Num"; ObjectID = "S25-af-fm5"; */
+"S25-af-fm5.text" = "High Num";
+
+/* Class = "UILabel"; text = "Low Number"; ObjectID = "S2n-Jb-lRf"; */
+"S2n-Jb-lRf.text" = "Low Number";
+
+/* Class = "UINavigationItem"; title = "RO-SHAM-BILL"; ObjectID = "Sjd-gS-CuM"; */
+"Sjd-gS-CuM.title" = "RO-SHAM-BILL";
+
+/* Class = "UILabel"; text = "Please Hand Server The Phone"; ObjectID = "VZ3-C6-QR4"; */
+"VZ3-C6-QR4.text" = "Please Hand Server The Phone";
+
+/* Class = "UILabel"; text = "Pick a Number Between"; ObjectID = "X3J-dH-4sf"; */
+"X3J-dH-4sf.text" = "Pick a Number Between";
+
+/* Class = "UILabel"; text = "Please Choose a Number Between: "; ObjectID = "YxE-25-YnP"; */
+"YxE-25-YnP.text" = "Please Choose a Number Between: ";
+
+/* Class = "UILabel"; text = "Player:"; ObjectID = "Z2X-vO-CEw"; */
+"Z2X-vO-CEw.text" = "Player:";
+
+/* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "aX5-ZX-K7S"; */
+"aX5-ZX-K7S.title" = "Save";
+
+/* Class = "UINavigationItem"; title = "Choose Players"; ObjectID = "adJ-oe-4bU"; */
+"adJ-oe-4bU.title" = "Choose Players";
+
+/* Class = "UIButton"; normalTitle = "GUESS"; ObjectID = "f9N-Pj-2mL"; */
+"f9N-Pj-2mL.normalTitle" = "GUESS";
+
+/* Class = "UIButton"; normalTitle = "START"; ObjectID = "leU-at-CGe"; */
+"leU-at-CGe.normalTitle" = "START";
+
+/* Class = "UILabel"; text = "Num"; ObjectID = "lnY-ya-cMd"; */
+"lnY-ya-cMd.text" = "Num";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "oKu-ix-Izs"; */
+"oKu-ix-Izs.title" = "Cancel";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "rDF-U8-2kq"; */
+"rDF-U8-2kq.title" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "History"; ObjectID = "toy-w5-g9g"; */
+"toy-w5-g9g.normalTitle" = "History";
+
+/* Class = "UIButton"; normalTitle = "Enter"; ObjectID = "v0P-ed-YYy"; */
+"v0P-ed-YYy.normalTitle" = "Enter";
+
+/* Class = "UITextField"; placeholder = "Please Enter # of Players"; ObjectID = "v6f-G8-tNw"; */
+"v6f-G8-tNw.placeholder" = "Please Enter # of Players";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "wfH-uV-eBw"; */
+"wfH-uV-eBw.normalTitle" = "OK";
+
+/* Class = "UILabel"; text = "HOW MANY PLAYERS??"; ObjectID = "yzx-30-jFT"; */
+"yzx-30-jFT.text" = "HOW MANY PLAYERS??";
