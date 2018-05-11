@@ -5,6 +5,7 @@
 //  Created by Jason Stanley on 12/26/17.
 //  Copyright © 2017 Jason Stanley. All rights reserved.
 //
+//Still need to set up data saving correctly to view the History of the game
 
 import UIKit
 
